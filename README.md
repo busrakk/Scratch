@@ -1,2 +1,2 @@
 # Scratch
-https://scratch.mit.edu/projects/410754438
+* Scratch uygulaması ile yaptığım hesap makinesi -> https://scratch.mit.edu/projects/410754438
